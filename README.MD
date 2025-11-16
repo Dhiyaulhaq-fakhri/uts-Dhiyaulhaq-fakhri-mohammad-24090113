@@ -1,8 +1,12 @@
 NAMA    : Dhiyaulhaq Fakhri Mohammad
+
 NIM     : 24090113
 
+link github repositories :
+https://github.com/Dhiyaulhaq-fakhri/uts-Dhiyaulhaq-fakhri-mohammad-24090113.git
 
-
+link page github :
+https://dhiyaulhaq-fakhri.github.io/uts-Dhiyaulhaq-fakhri-mohammad-24090113/
 
 1. halaman login atau index
 index dipakai untuk menentukan siapa yang memakai website dengan mekanisme pengecekan user yang simpel hanya jika yang memakai bukan saya dan password bukan NIM saya maka akan menampilkan error username atau password salah. dan penampilan error yang dipakai cukup memakai alert saja.
